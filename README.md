@@ -21,7 +21,7 @@ The acceptance criteria for the refactor code are:
 * adding alt attributes to images.
 
 
-** Credits
+## Credits
 
 * https://www.semrush.com/blog/semantic-html5-guide/
 * https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure
