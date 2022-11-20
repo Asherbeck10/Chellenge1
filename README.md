@@ -17,8 +17,9 @@ The acceptance criteria for the refactor code are:
 * Title changed to reflect the company name.
 * Correcting none functioning navigation element in the header.
 * Changing div tag to semantic tags like header,main,aside ....
-* cleaning repeated classes in the ccs code .
-* adding alt attributes to images.
+* Cleaning repeated classes in the ccs code .
+* Adding alt attributes to images.
+* Moving header image from css file to HTML.
 
 
 ## Credits
